@@ -4,8 +4,6 @@ Made with Node.js and React, these interactive flash cards are made to help you 
 
 ![Demo GIF](/public/images/iconic_designs.gif)
 
-[![Watch the video](https://img.youtube.com/vi/0YefmXkT-AA/0.jpg)](https://youtu.be/0YefmXkT-AA)
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
