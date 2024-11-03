@@ -2,7 +2,7 @@
 
 Made with Node.js and React, these interactive flash cards are made to help you learn about iconic designers and their interior pieces. 
 
-![Demo GIF](/images/iconic_designs.gif)
+![Demo GIF](/public/images/iconic_designs.gif)
 
 [![Watch the video](https://img.youtube.com/vi/0YefmXkT-AA/0.jpg)](https://youtu.be/0YefmXkT-AA)
 
